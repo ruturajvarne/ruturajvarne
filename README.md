@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/ruturajvarne/ruturajvarne/blob/main/Untitled.png)]
+
 <h1 align="center">Hi 👋, I'm Ruturaj Varne</h1>
 <h3 align="center">A passionate Curam Expert</h3>
 
