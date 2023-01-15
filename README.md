@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/ruturajvarne/ruturajvarne/blob/main/Untitled.png)]
 
 <h1 align="center">Hi 👋, I'm Ruturaj Varne</h1>
-<h3 align="center">A passionate Curam Expert</h3>
+<h3 align="center">Curam Technical Architet & Data Analystics & Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturajvarne&label=Profile%20views&color=0e75b6&style=flat" alt="ruturajvarne" /> </p>
 
